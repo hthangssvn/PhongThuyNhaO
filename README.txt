@@ -1,0 +1,1 @@
+Mở index.html trên hosting HTTPS. Trên iPhone Safari: Chia sẻ -> Thêm vào Màn hình chính. La bàn cần HTTPS và quyền cảm biến.
